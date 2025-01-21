@@ -2,7 +2,7 @@
 
 Simple University System using Flutter SDK
 
-### Made By Mohamed Marrouf - as a project for a collage course
+### Made By Mohamed Marrouf - as a project for a college course
 
 ## Feature List
 
@@ -11,3 +11,4 @@ Simple University System using Flutter SDK
 - marking down attendance for each course registered.
 
 ## Demo for the project
+<a href="https://youtu.be/MJudspGSvnQ">Click to watch the demo</a>
