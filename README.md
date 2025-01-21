@@ -2,7 +2,7 @@
 
 Simple University System using Flutter SDK
 
-### Made By Mohamed Marrouf - as a project for a college course
+###### Made By Mohamed Marrouf - as a project for a college course
 
 ## Feature List
 
