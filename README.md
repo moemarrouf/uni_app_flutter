@@ -11,4 +11,4 @@ Simple University System using Flutter SDK
 - marking down attendance for each course registered.
 
 ## Demo for the project
-<a href="https://youtu.be/MJudspGSvnQ">Click to watch the demo</a>
+<a tagret="_blank" href="https://youtu.be/MJudspGSvnQ">Click to watch the demo</a>
